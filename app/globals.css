@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme{
+  --color-lawrencium1: #0f0c29;
+  --color-lawrencium2: #302b63;
+  --color-lawrencium3: #24243e;
+  --color-moonlight-asteroid1: #0F2027;
+  --color-moonlight-asteroid2: #24243e;
+
+  --font-share-tech-mono: 'Share Tech Mono', monospace;
+  --font-exo2: 'Exo 2', sans-serif;
+}
